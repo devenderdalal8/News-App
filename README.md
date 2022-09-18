@@ -14,8 +14,6 @@ The codebase focuses 👓 on following key things:
 The idea is to keep the app super simple while demonstrating new libraries and tools which makes it easier to build high quality Android applications.
 
 
-<img alt="NewsApp Main Page" height="450px" src="https://raw.githubusercontent.com/AkshayChordiya/News/master/art/screen.png" />
-
 # Development Setup 🖥
 
 You will require latest version of Android Studio 3.0 (or newer) to be able to build the app
