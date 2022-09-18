@@ -29,11 +29,6 @@ public val MY_KEY = "YOUR-API-KEY";
 * RecyclerView
 * Navigation Graph
 
-
-### Image resources
-[Icon](https://www.iconfinder.com/icons/315754/ball_soccer_icon#size=256) by Yannick Lung<br/>
-[Icon](https://www.iconfinder.com/icons/2124145/app_essential_science_ui_icon#size=256) by Just Icon
-
 ```
 MIT License
 
