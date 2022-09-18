@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="six_sp">6sp</dimen>
+    <dimen name="nine_sp">9sp</dimen>
+    <dimen name="eight_sp">8sp</dimen>
+    <dimen name="ten_sp">10sp</dimen>
+    <dimen name="eleven_sp">11sp</dimen>
+    <dimen name="twelve_sp">12sp</dimen>
+    <dimen name="thirteen_sp">13sp</dimen>
+    <dimen name="thirty_two_sp">32sp</dimen>
+    <dimen name="thirty_one_sp">31sp</dimen>
+    <dimen name="twentyTwo_dp">22dp</dimen>
+    <dimen name="twentySevenSp">27sp</dimen>
+
+    <dimen name="twenty_nine_dp">29dp</dimen>
+
+    <dimen name="fourteen_sp">14sp</dimen>
+    <dimen name="fifteen_sp">15sp</dimen>
+    <dimen name="sixteen_sp">16sp</dimen>
+    <dimen name="seventeen_sp">17sp</dimen>
+    <dimen name="seven_sp">7sp</dimen>
+    <dimen name="eighteen_sp">18sp</dimen>
+    <dimen name="nineteen_sp">19sp</dimen>
+    <dimen name="twenty_sp">20sp</dimen>
+    <dimen name="twenty_one_sp">21sp</dimen>
+    <dimen name="twentyTwo_sp">22sp</dimen>
+    <dimen name="twentyThree_sp">23sp</dimen>
+    <dimen name="twentyFive_sp">25sp</dimen>
+    <dimen name="twentySix_sp">26sp</dimen>
+    <dimen name="twentySeven_sp">27sp</dimen>
+    <dimen name="forty_sp">40sp</dimen>
+    <dimen name="fourty_five_dp">45dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="fifteen_dp">15dp</dimen>
+</resources>
